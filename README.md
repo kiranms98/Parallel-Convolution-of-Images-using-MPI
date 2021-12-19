@@ -1,0 +1,1 @@
+# Strip-and-Grid-Based-Parallel-Convolution-of-Images-using-MPI
